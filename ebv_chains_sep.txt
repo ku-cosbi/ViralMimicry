@@ -1,0 +1,55 @@
+pdbID	col0	col1	col2	col3	col4	col5
+1B3T	A	B				
+1O6E	A	B				
+1VHI	A	B				
+1VLK	A					
+2BSY	A					
+2C9L	Y	Z				
+2CH8	A	B	C	D		
+2WE0	A					
+2WE1	A					
+2WE2	A					
+2WE3	A					
+3FD4	A	B				
+4OYD	A	C				
+5SZX	A	B				
+5T7X	A	B				
+5WMF	A	B	C	D	E	F
+6LQN	A					
+6NPI	A	B				
+6NPM	A	B				
+6NPP	A	B				
+6T3Z	A					
+6VH6	A	B				
+7NX5	A	B	E	F		
+1UXS	C					
+1UXW	C					
+2BSR	C					
+2WH6	A					
+2XPX	A					
+3D18	C					
+3MRE	P					
+3MRF	P					
+3REW	C	F				
+3SKM	C					
+3SKO	C					
+3SPV	C					
+3X13	C					
+3X14	C					
+4FA8	A	B	D			
+4JQV	B					
+4JQX	B					
+4JRX	C					
+4PR5	C					
+4PRA	C					
+4PRB	C					
+4PRD	C					
+4PRE	C					
+4PRH	C					
+4PRI	C					
+4PRN	C					
+4PRP	C					
+5HDA	B	D				
+5WMO	C					
+7K7R	C	F				
+7KE3	A	B	C	D	E	

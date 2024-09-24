@@ -1,0 +1,203 @@
+pdbID	col0	col1	col2	col3	col4	col5	col6	col7	col8	col9	col10	col11
+6GOL	A											
+7JP4	A	B										
+6SYI	A											
+6Z2T	A											
+6CHX	A	B										
+6HP0	A	B	C	D								
+4B7M	A	B										
+4EDB	A	C	E	B	D	F						
+6S0Y	C	D										
+4DYN	A	B										
+6G01	A	B										
+5JOO	A											
+5TTC	A											
+6D8W	A	B	C	D	E	F						
+6N41	A	B	C									
+5UM1	A											
+5H94	C	F										
+5V5P	A	B										
+7KEI	C											
+6ONA	A	B	C									
+4M5V	A											
+5CXR	A											
+4PUS	A	B										
+4IUJ	A											
+2ZNL	A	B										
+4B7R	A	B	C	D								
+5CQE	A	B										
+2ZTT	A	C	B	D								
+3A1G	A	C	B	D								
+3KHW	A	B										
+4KIL	A											
+4N8C	X	Y										
+4J2R	A	B										
+5V6G	A	B	C	D								
+5V7B	A	B										
+5V7S	A	B	C									
+6CFP	A											
+4M5Q	A	C	E	G	I	K	B	D	F	H	J	L
+1RU7	A	B										
+5W5S	A											
+5V0U	A	B										
+6LXI	A	B										
+5W5U	A											
+3WI0	A	B	C	D	E	F	G	H	I	J	K	L
+3M8A	A	B	D	E	F	G						
+3M5R	A											
+4M5O	A											
+4M5R	A	C	E	B	D	F						
+4GXX	A	B										
+6DGK	A											
+5IEQ	A											
+5IF2	A											
+5IF5	A											
+3WI1	A	C	E	G	I	K	B	D	F	H	J	L
+1RVZ	A											
+4M5U	A	C	E	B	D	F						
+5VMC	A											
+5IFB	A	C	E	G	I	K	B	D	F	H	J	L
+1RVX	A	C	E	B	D	F						
+5VMF	A	B										
+4U6O	A											
+4ENF	A											
+4LN7	A	B										
+5VLI	A											
+4ZHZ	A											
+4ZI0	A											
+4ZQQ	A											
+5FDG	A											
+5I13	A											
+5JHT	A	B										
+6G02	A											
+4MK1	A											
+4MK2	A											
+4MK5	A											
+7XGC	A											
+4YYL	A											
+7ZPY	B											
+4ZDU	A											
+7KNY	A											
+7KOP	A											
+3RVC	A	B	C	D								
+3MD2	A											
+6WIJ	A											
+7KNR	A											
+7LW6	E											
+4HKX	A											
+7KAF	A											
+6V53	A											
+6V6X	A											
+6V9E	A											
+7LP7	A											
+8E1Q	A											
+8E4S	A											
+7AS0	A											
+7AS1	A											
+7AS2	A											
+7AS3	A											
+6VIV	A											
+6YEM	A	C	E	B	D	F						
+4M4Y	A											
+7NUG	A											
+7NUH	A											
+6YA5	A	B										
+3UYX	A	B	C	D								
+3UYW	A	B										
+3NSS	A	C	E	G	I	K	B	D	F	H	J	L
+3UBJ	A											
+5VRJ	A	C	E	G	I	K	B	D	F	H	J	L
+3UBE	A	C	E	G	I	K	B	D	F	H	J	L
+3UBQ	A											
+6E6V	A											
+6E6W	A											
+6NEL	A											
+6NEM	A											
+6E4C	A											
+6E6X	A	B										
+3MLH	A											
+7LM4	A											
+7MTY	A											
+7MX0	A											
+7MY5	A											
+7N47	A											
+7N55	A											
+7N68	A											
+7N8F	A											
+7RKP	A											
+5VP8	A											
+5VPT	A											
+5VPX	A											
+5VQN	A	B	C	D								
+4AWF	A											
+8DAL	A											
+6DCY	A											
+6DZQ	A											
+6E0Q	A											
+8DDE	A											
+8DHN	A	B	C	D								
+4AWH	A											
+4AWK	A	D										
+6XQ0	A											
+8DJV	A											
+8DJY	A											
+5CCY	A											
+5CL0	A											
+5CZN	A											
+5D2O	A											
+5D42	A											
+5D4G	A											
+5D8U	A											
+5D9J	A											
+5DBS	A											
+5DEB	A											
+5DES	A	B										
+3GBN	A											
+7V04	A											
+8CTF	A											
+8DDB	C											
+4NT6	A											
+7K0W	A											
+5EGA	A											
+5W44	A											
+5W73	A											
+5W7U	A											
+5W92	A											
+5W9G	A											
+5WA6	A											
+5WA7	A											
+5WAP	A											
+5WB3	A											
+5WCT	A											
+5WDC	A											
+5WDN	A											
+5WDW	A											
+5WE9	A											
+5WEB	A											
+5WEF	A											
+5WEI	A											
+5WF3	A											
+5WFM	A											
+5WFW	A											
+5WG9	A	B	C	D	E	F						
+6FS6	A	B	C	D	E	F						
+6FS7	A											
+5WE7	I	J										
+5EUO	A											
+5IF8	A	B	C	D	E	F	G	H				
+6D96	A	B										
+3L4Q	A											
+6Q0E	A											
+6Q0L	A											
+6W7A	A											
+6WHM	A											
+6WS3	A											
+5W0D	A											
+5CGV	A	B										
+3TI3	A	B										
+3TI4	A	B										
+3TI5	A	B										
+3TI6	A											
+5W3I	A											
+5WFZ	A											
+6CFP	A											
