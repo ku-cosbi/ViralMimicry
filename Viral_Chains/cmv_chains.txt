@@ -1,40 +1,40 @@
 pdbID	chains
-1CMV	"A, B"
-1ID4	"A, B"
-1IEC	"A, B"
-1IED	"A, B"
-1IEF	"A, B"
-1IEG	"A, B"
+1CMV	A, B
+1ID4	A, B
+1IEC	A, B
+1IED	A, B
+1IEF	A, B
+1IEG	A, B
 1JQ6	A
 1LAY	A
-1NJT	"A, B, C, D, E, F, G, H"
+1NJT	A, B, C, D, E, F, G, H
 1T6L	A
-1WPO	"A, B"
-1YYP	"A, B"
-3N4P	"A, B, C, D"
+1WPO	A, B
+1YYP	A, B
+3N4P	A, B, C, D
 4OSN	A
-5D5N	"A, B"
-5DOB	"A, B"
-5DOC	"A, B"
-6T3X	"A, C"
+5D5N	A, B
+5DOB	A, B
+5DOC	A, B
+6T3X	A, C
 7NXP	A
-1IM3	"D, H, L, P"
-2WY3	"B, D"
-2X4R	"C, F"
-2X4T	"C, F"
-3D2U	"A, E"
+1IM3	D, H, L, P
+2WY3	B, D
+2X4R	C, F
+2X4T	C, F
+3D2U	A, E
 3MR9	P
 3MRB	P
 3MRC	P
 3MRD	P
 3VCL	C
 4HHA	P
-4I9X	"A, B"
+4I9X	A, B
 4OT1	A
 4QRS	C
 4QRT	C
 4QRU	C
-5D2N	"G, I"
+5D2N	G, I
 5WMP	C
 5WMR	C
 6Q3K	P
