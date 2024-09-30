@@ -1,72 +1,72 @@
-pdbID	col0	col1	col2	col3	col4	col5	col6	col7
-7DXP	A	B						
-6IUV	A	B						
-6A0Z	A							
-6A67	A	B						
-4KW1	A	C	E	G	B	D	F	H
-3PDV	C							
-6IRL	A	B	C	D				
-4ES5	A							
-5HUG	A	B						
-4JUM	A	C	E	B	D	F		
-4JUN	A							
-5DUT	A							
-6IUT	A	B	C	D	E	F	G	H
-6NV1	A	B						
-5EG9	A							
-4RWC	A	B						
-4RWB	A							
-6MPL	A							
-6MPM	A	B						
-6MPN	A	B	C	D				
-3EBJ	A	B						
-4CB6	A							
-4CB4	A							
-4CB5	A	C	E	B	D	F		
-4CQW	A	C	E	B	D	F		
-4CQX	A	C	E	B	D	F		
-4CQY	A	B	C	D				
-3P31	A	B	C	D				
-3HW4	E	F						
-3ZPA	A	B	C	D				
-3HW3	A	B	C	D				
-3HW5	A	B						
-5AJM	A	B						
-4CQR	A	C	E	B	D	F		
-4BH0	A	C	E	B	D	F		
-4BH1	A	C	E	B	D	F		
-3ZNL	A	C	E	B	D	F		
-3ZNM	A	B						
-4CQU	A	B	C	D				
-3HW6	A	B						
-4BGX	A	B						
-4BGW	A							
-3CKZ	A							
-3CL0	A	B						
-3L56	A	C	E	B	D	F		
-4KDM	A	C	E	B	D	F		
-4KDN	A	C	E	B	D	F		
-4KDO	A	B						
-4BH2	A							
-3KC6	A	B						
-4BH3	A	B						
-4BH4	A	B						
-6CFG	A	B	C	D				
-4E5E	A	B	C	D				
-4E5F	A	B	C	D				
-4E5H	A	B	C	D				
-4E5J	A	B	C	D				
-4E5L	B							
-7QTP	C	F	I	L				
-3MGT	A							
-6PCX	A	A						
-6S5V	C	F	I	L				
-3MGO	A	B						
-4CB7	A							
-6PD3	A							
-6PD5	A							
-6EUW	A	B						
-4FQI	A	C	E	B	D	F		
-6CF5	A	B						
-7NFQ	A							
-7NFR	A							
+pdbID	chains
+7DXP	A, B
+6IUV	A, B
+6A0Z	A
+6A67	A, B
+4KW1	A, C, E, G, B, D, F, H
+3PDV	C
+6IRL	A, B, C, D
+4ES5	A
+5HUG	A, B
+4JUM	A, C, E, B, D, F
+4JUN	A
+5DUT	A
+6IUT	A, B, C, D, E, F, G, H
+6NV1	A, B
+5EG9	A
+4RWC	A, B
+4RWB	A
+6MPL	A
+6MPM	A, B
+6MPN	A, B, C, D
+3EBJ	A, B
+4CB6	A
+4CB4	A
+4CB5	A, C, E, B, D, F
+4CQW	A, C, E, B, D, F
+4CQX	A, C, E, B, D, F
+4CQY	A, B, C, D
+3P31	A, B, C, D
+3HW4	E, F
+3ZPA	A, B, C, D
+3HW3	A, B, C, D
+3HW5	A, B
+5AJM	A, B
+4CQR	A, C, E, B, D, F
+4BH0	A, C, E, B, D, F
+4BH1	A, C, E, B, D, F
+3ZNL	A, C, E, B, D, F
+3ZNM	A, B
+4CQU	A, B, C, D
+3HW6	A, B
+4BGX	A, B
+4BGW	A
+3CKZ	A
+3CL0	A, B
+3L56	A, C, E, B, D, F
+4KDM	A, C, E, B, D, F
+4KDN	A, C, E, B, D, F
+4KDO	A, B
+4BH2	A
+3KC6	A, B
+4BH3	A, B
+4BH4	A, B
+6CFG	A, B, C, D
+4E5E	A, B, C, D
+4E5F	A, B, C, D
+4E5H	A, B, C, D
+4E5J	A, B, C, D
+4E5L	B
+7QTP	C, F, I, L
+3MGT	A
+6PCX	AAAA, ABAA
+6S5V	C, F, I, L
+3MGO	A, B
+4CB7	A
+6PD3	A
+6PD5	A
+6EUW	A, B
+4FQI	A, C, E, B, D, F
+6CF5	A, B
+7NFQ	A
+7NFR	A

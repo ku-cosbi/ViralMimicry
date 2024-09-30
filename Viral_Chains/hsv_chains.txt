@@ -1,52 +1,52 @@
-pdbID	col0	col1	col2	col3	col4	col5	col6	col7
-1E2H	A	B						
-1E2I	A	B						
-1E2J	A	B						
-1E2K	A	B						
-1E2L	A	B						
-1E2M	A	B						
-1E2N	A	B						
-1E2P	A	B						
-1KI2	A	B						
-1KI3	A	B						
-1KI4	A	B						
-1KI6	A	B						
-1KI7	A	B						
-1KI8	A	B						
-1KIM	A	B						
-1LAU	E							
-1OF1	A	B						
-1P7C	A	B						
-1QHI	A	B						
-1UDG	A							
-1UDH	A							
-2C3A	A	B						
-2C36	A	B						
-2C53	A							
-2C56	A							
-2F5U	A							
-2GIY	A	B						
-2GUM	A	B	C					
-2KI5	A	B						
-3F0T	A	B						
-3NWA	A	B	C	D				
-4IOX	A	B	C	D				
-4IVP	A	B						
-4IVQ	A	B						
-4IVR	A	B						
-4JBX	A	B						
-4JBY	A	B						
-4OQL	A	B						
-4OQM	A	B						
-4OQN	A	B						
-4OQX	A	B						
-4U4H	A							
-4XAL	A	B						
-4YXP	A	B						
-5BQK	A	B	C					
-5MHJ	A	B						
-5MHK	A	B	C	D	J			
-6T5A	A	B	C	D	E	F	G	H
-16VP	A							
-3WV0	X	Y						
-5XO2	X	Y						
+pdbID	chains
+1E2H	A, B
+1E2I	A, B
+1E2J	A, B
+1E2K	A, B
+1E2L	A, B
+1E2M	A, B
+1E2N	A, B
+1E2P	A, B
+1KI2	A, B
+1KI3	A, B
+1KI4	A, B
+1KI6	A, B
+1KI7	A, B
+1KI8	A, B
+1KIM	A, B
+1LAU	E
+1OF1	A, B
+1P7C	A, B
+1QHI	A, B
+1UDG	A
+1UDH	A
+2C3A	A, B
+2C36	A, B
+2C53	A
+2C56	A
+2F5U	A
+2GIY	A, B
+2GUM	A, B, C
+2KI5	A, B
+3F0T	A, B
+3NWA	A, B, C, D
+4IOX	A, B, C, D
+4IVP	A, B
+4IVQ	A, B
+4IVR	A, B
+4JBX	A, B
+4JBY	A, B
+4OQL	A, B
+4OQM	A, B
+4OQN	A, B
+4OQX	A, B
+4U4H	A
+4XAL	A, B
+4YXP	A, B
+5BQK	A, B, C
+5MHJ	A, B
+5MHK	A, B, C, D, J
+6T5A	A, B, C, D, E, F, G, H
+16VP	A
+3WV0	X, Y
+5XO2	X, Y
