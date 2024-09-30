@@ -1,41 +1,41 @@
-pdbID	chains	col0	col1	col2	col3	col4	col5	col6	col7
-1CMV	'A', 'B'	A	B						
-1ID4	'A', 'B'	A	B						
-1IEC	'A', 'B'	A	B						
-1IED	'A', 'B'	A	B						
-1IEF	'A', 'B'	A	B						
-1IEG	'A', 'B'	A	B						
-1JQ6	'A'	A							
-1LAY	'A'	A							
-1NJT	'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'	A	B	C	D	E	F	G	H
-1T6L	'A'	A							
-1WPO	'A', 'B'	A	B						
-1YYP	'A', 'B'	A	B						
-3N4P	'A', 'B', 'C', 'D'	A	B	C	D				
-4OSN	'A'	A							
-5D5N	'A', 'B'	A	B						
-5DOB	'A', 'B'	A	B						
-5DOC	'A', 'B'	A	B						
-6T3X	'A', 'C'	A	C						
-7NXP	'A'	A							
-1IM3	'D', 'H', 'L', 'P'	D	H	L	P				
-2WY3	'B', 'D'	B	D						
-2X4R	'C', 'F'	C	F						
-2X4T	'C', 'F'	C	F						
-3D2U	'A', 'E'	A	E						
-3MR9	'P'	P							
-3MRB	'P'	P							
-3MRC	'P'	P							
-3MRD	'P'	P							
-3VCL	'C'	C							
-4HHA	'P'	P							
-4I9X	'A', 'B'	A	B						
-4OT1	'A'	A							
-4QRS	'C'	C							
-4QRT	'C'	C							
-4QRU	'C'	C							
-5D2N	'G', 'I'	G	I						
-5WMP	'C'	C							
-5WMR	'C'	C							
-6Q3K	'P'	P							
-6UOE	'P'	P							
+pdbID	chains
+1CMV	"A, B"
+1ID4	"A, B"
+1IEC	"A, B"
+1IED	"A, B"
+1IEF	"A, B"
+1IEG	"A, B"
+1JQ6	A
+1LAY	A
+1NJT	"A, B, C, D, E, F, G, H"
+1T6L	A
+1WPO	"A, B"
+1YYP	"A, B"
+3N4P	"A, B, C, D"
+4OSN	A
+5D5N	"A, B"
+5DOB	"A, B"
+5DOC	"A, B"
+6T3X	"A, C"
+7NXP	A
+1IM3	"D, H, L, P"
+2WY3	"B, D"
+2X4R	"C, F"
+2X4T	"C, F"
+3D2U	"A, E"
+3MR9	P
+3MRB	P
+3MRC	P
+3MRD	P
+3VCL	C
+4HHA	P
+4I9X	"A, B"
+4OT1	A
+4QRS	C
+4QRT	C
+4QRU	C
+5D2N	"G, I"
+5WMP	C
+5WMR	C
+6Q3K	P
+6UOE	P
