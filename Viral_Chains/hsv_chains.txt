@@ -50,3 +50,7 @@ pdbID	chains
 16VP	A
 3WV0	X, Y
 5XO2	X, Y
+4L5N	A
+5AYS	A
+5HUW	A
+8BQ1	A
